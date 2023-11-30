@@ -7,7 +7,7 @@
 - I'm an experienced web designer and developer for large projects and ready to start your project anytime.
 - Enterprise application development and support
 - <b>Design</b> : Web Design | Graphic Design | Logo Design | Web Sketch Design
-- <b>Front-end</b> : Reactjs | Next.js | Vuejs | Vuex | TypeScript | TailWind CSS | Material | Bootstrap | Antd | Redux | Webpack | Babel | Gulp | Websocket | GraphQL | ES6+
+- <b>Front-end</b> : Reactjs | Next.js | Vuejs | Vuex | Angular | TypeScript | Svelte | TailWind CSS | Material | Bootstrap | Antd | Redux | Webpack | Babel | Gulp | Websocket | GraphQL | ES6+
 - <b>3D</b> : Three.js | 3D Max | WebGl
 - <b>Back-end</b> : Python | Node | Express | Django | GoLang |Laravel | Nginx | Apache
 - <b>Mobile</b> : React-Native | Flutter | Ionic
